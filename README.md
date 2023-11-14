@@ -23,4 +23,4 @@ This repository contains the code and resources for machine learning models desi
 
 - Accuracy: Leveraging content and historical patterns, the code achieves high accuracy in distinguishing between spam and non-spam emails.
 
--Customization: Users have the flexibility to customize the code to fit specific requirements, adapting the model to different datasets and scenarios.
+- Customization: Users have the flexibility to customize the code to fit specific requirements, adapting the model to different datasets and scenarios.
